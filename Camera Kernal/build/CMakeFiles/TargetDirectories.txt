@@ -1,0 +1,2 @@
+C:/Users/kale_p/Camera Kernal/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kale_p/Camera Kernal/build/CMakeFiles/ZERO_CHECK.dir
